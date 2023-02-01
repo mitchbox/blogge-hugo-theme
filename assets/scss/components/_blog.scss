@@ -462,9 +462,9 @@
       h3 {
         font-size: 26px;
         font-weight: 600;
-        margin-bottom: 25px;
+        margin: 25px 0;
         @include mobile {
-          margin-bottom: 15px;
+          margin: 15px 0;
         }
         @include mobile {
           font-size: 20px;
